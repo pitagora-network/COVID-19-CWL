@@ -1,0 +1,6 @@
+- job: jobs/PreProcessing.yml
+  tool: workflows/PreProcessing.cwl
+  output:
+    illumina_reads: []
+    oxford_nanopore_reads: []
+  doc: Test for 1-PreProcessing

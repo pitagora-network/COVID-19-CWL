@@ -1,0 +1,8 @@
+illumina_reads_sra:
+  - SRR10903401
+  - SRR10903402
+  - SRR10971381
+oxford_nanopore_reads_sra:
+  - SRR10948550
+  - SRR10948474
+  - SRR10902284
